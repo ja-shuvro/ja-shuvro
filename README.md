@@ -28,7 +28,7 @@ I'm a **Full Stack Developer** specializing in creating dynamic, high-performanc
    - Email: [8199shuvro@gmail.com](8199shuvro@gmail.com)
    - LinkedIn: [J.A Shuvro](https://www.linkedin.com/in/jashuvro/)
    - Facebook: [J.A Shuvro](https://www.facebook.com/ja.shuvro.0/)
-   - Website: [J.A Shuvro](www.shuvro.rf.gd)
+   - Website: [J.A Shuvro](https://www.shuvro.rf.gd)
 
 - 😄 **Pronouns**: He/Him
 
