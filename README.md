@@ -1,37 +1,101 @@
-### Hi there! 👋 I'm @ja-shuvro
+# Hi there! 👋 I'm MD Jonaed Ali Shuvro (@ja-shuvro)
 
-I'm a **Full Stack Developer** specializing in creating dynamic, high-performance applications. With a solid background in both front-end and back-end development, I enjoy building full-scale solutions from scratch and optimizing existing systems for scalability and efficiency. 
+I'm a **Flutter & Full-Stack Developer** with real-world production experience, specializing in building scalable **mobile and web applications**. I come from a non-IT background and am a **self-taught developer**, which has shaped me into a fast learner who adapts quickly to new technologies and challenges.
 
-- 🔭 **Tech Stack**: 
-   - **Backend**: Node.js, Nest.js, Express.js
-   - **Frontend**: React.js, Next.js, HTML5, CSS3, TailwindCSS, SCSS
-   - **Database**: MongoDB, MySQL, Sequelize ORM, Mongoose
-   - **Languages**: JavaScript, TypeScript
-   - **Tools & Technologies**: Git, RESTful APIs, JSON, Postman, Docker
-
-- 🌱 **Currently Exploring**: 
-   - Advanced **TypeScript** practices and design patterns
-   - **Microservices architecture** for large-scale applications
-   - **Cloud deployment** and **DevOps** integration for seamless CI/CD pipelines
-
-- 💡 **What I love doing**:
-   - Building robust, scalable **backend APIs** with Node.js and Nest.js
-   - Crafting responsive and intuitive **front-end interfaces** using React and TailwindCSS
-   - Writing clean, maintainable code that scales well
-   - Implementing database models and optimizing query performance with **MongoDB** and **MySQL**
-
-- 👀 **I’m interested in**: Collaborating on open-source projects, contributing to full-stack web applications, and helping startups build MVPs or scale their platforms.
-
-- 💞️ **Let’s Collaborate**: I’m always open to working on **backend APIs**, **front-end apps**, or anything that involves **JavaScript, TypeScript**, or **Node.js**. If you have an idea or a project, I’d love to help!
-
-- 📫 **How to reach me**: 
-   - Email: [8199shuvro@gmail.com](8199shuvro@gmail.com)
-   - LinkedIn: [J.A Shuvro](https://www.linkedin.com/in/jashuvro/)
-   - Facebook: [J.A Shuvro](https://www.facebook.com/ja.shuvro.0/)
-   - Website: [J.A Shuvro](https://www.shuvro.rf.gd)
-
-- 😄 **Pronouns**: He/Him
-
-- ⚡ **Fun fact**: When I’m not coding, I love exploring new tech trends, and sometimes, you’ll find me learning about how to make UIs even more responsive and faster!
+I enjoy working across the full stack — from crafting clean UI experiences to designing robust backend systems and APIs.
 
 ---
+
+## 🔭 Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter (Cross-platform mobile apps)
+
+### 🖥️ Frontend
+
+* React.js, Next.js
+* HTML5, CSS3, Tailwind CSS
+* JavaScript, jQuery
+
+### ⚙️ Backend
+
+* Laravel
+* Node.js, Express.js, NestJS
+* RESTful API Development
+
+### 🗄️ Databases
+
+* MongoDB
+* MySQL
+
+### 🧩 CMS & Others
+
+* WordPress (Development & Customization)
+* WordPress Plugin & Theme Development
+* Git & GitHub
+* Postman
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+* Advanced **Flutter** concepts (state management, performance optimization, scalable architecture)
+* Core **software engineering fundamentals** (data structures, algorithms, system design basics)
+* Strengthening **computer science foundations** to complement my non-technical academic background
+* Scalable backend systems with **Laravel & NestJS**
+* Clean code practices and maintainable project structures
+* Basics of **Docker** and deployment workflows
+
+---
+
+## 💡 What I Love Doing
+
+* Building **production-ready mobile apps** using Flutter
+* Developing **full-stack web applications** (Laravel + React)
+* Designing and consuming **REST APIs**
+* Working with **MongoDB & MySQL** for efficient data handling
+* Creating **custom WordPress plugins and themes**
+
+---
+
+## 👀 Interests
+
+* Remote or international **software development roles**
+* Contributing to **open-source projects**
+* Building MVPs and scalable products for startups
+* Working with global teams and learning international best practices
+
+---
+
+## 💞️ Let’s Collaborate
+
+I'm open to collaborating on:
+
+* Flutter mobile applications
+* Full-stack web projects
+* Backend APIs (Laravel / Node.js)
+* WordPress plugin or theme development
+
+If you have an idea or project, feel free to reach out — I’m always happy to collaborate.
+
+---
+
+## 📫 How to Reach Me
+
+* 📧 Email: [dev.jsahuvro@gmail.com](mailto:dev.jsahuvro@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/ja-shuvro-13733b37b](https://www.linkedin.com/in/ja-shuvro-13733b37b)
+* 💻 GitHub: [https://github.com/ja-shuvro](https://github.com/ja-shuvro)
+* 🌐 Portfolio: [http://www.shuvro.rf.gd](http://www.shuvro.rf.gd)
+
+---
+
+## 😄 Pronouns
+
+He / Him
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, I enjoy exploring new technologies, improving app performance, and learning how to build cleaner, faster, and more scalable systems 🚀
