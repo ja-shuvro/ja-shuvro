@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=JA%20Shuvro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 <a href="https://www.jashuvro.com"><img src="https://img.shields.io/badge/🌐_Portfolio-jashuvro.com-0F2027?style=for-the-badge&labelColor=203A43"/></a>
 <a href="https://www.upotto.com"><img src="https://img.shields.io/badge/🏢_Agency-upotto.com-2C5364?style=for-the-badge&labelColor=203A43"/></a>
@@ -153,10 +153,6 @@ National environmental GIS monitoring platform proposal for Bangladesh's Ministr
 </div>
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=ja-shuvro&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/ja-shuvro/ja-shuvro/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
@@ -189,6 +185,6 @@ Flutter apps &nbsp;•&nbsp; Full-stack web (Next.js/NestJS/Laravel) &nbsp;•&n
 
 <i>⚡ Started in agriculture, ended up automating everything else instead.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/ja-shuvro/ja-shuvro/main/banner-footer.svg" width="100%"/>
 
 </div>
