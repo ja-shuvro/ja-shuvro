@@ -153,7 +153,11 @@ National environmental GIS monitoring platform proposal for Bangladesh's Ministr
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ja-shuvro&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=ja-shuvro&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ja-shuvro/ja-shuvro/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
 ---
