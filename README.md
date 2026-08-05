@@ -185,6 +185,6 @@ Flutter apps &nbsp;•&nbsp; Full-stack web (Next.js/NestJS/Laravel) &nbsp;•&n
 
 <i>⚡ Started in agriculture, ended up automating everything else instead.</i>
 
-<img src="https://raw.githubusercontent.com/ja-shuvro/ja-shuvro/main/banner-footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
