@@ -1,139 +1,190 @@
-<h1 align="center">Hi 👋, I'm Md. Jonaed Ali Shuvro</h1>
-<h3 align="center">Flutter & Full-Stack Developer | Building scalable mobile & web products</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="http://www.shuvro.rf.gd"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=JA%20Shuvro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://www.jashuvro.com"><img src="https://img.shields.io/badge/🌐_Portfolio-jashuvro.com-0F2027?style=for-the-badge&labelColor=203A43"/></a>
+<a href="https://www.upotto.com"><img src="https://img.shields.io/badge/🏢_Agency-upotto.com-2C5364?style=for-the-badge&labelColor=203A43"/></a>
+<a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+mobile+%26+web+systems;Flutter+%7C+NestJS+%7C+Next.js+%7C+PostgreSQL;Solo-developed+an+ERP+from+the+ground+up;From+an+Agriculture+diploma+to+production+code;Open+to+remote+%26+international+roles&font=Fira+Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=ja-shuvro&color=blueviolet&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/ja-shuvro?style=flat-square&color=blueviolet&label=Followers"/>
+
+</div>
+
+<br/>
+
+## 🧬 About Me
+
+```yaml
+name: "Md. Jonaed Ali Shuvro (JA Shuvro)"
+location: "Rajshahi, Bangladesh 🇧🇩"
+role: "Flutter & Full-Stack Developer"
+experience: "3.5+ years, self-taught"
+background: "Agriculture diploma → Software Engineering"
+current_focus: "Upotto — ERP Suite + Foreman Bot (solo build)"
+current_job: "Software Engineer @ Immigrant Times (part-time)"
+philosophy: "Elegant logic, fluid UX, and code that ships"
+```
+
+I bridge complex requirements and elegant solutions — from pixel-perfect Flutter interfaces to enterprise-grade backend architecture. My path started outside tech entirely, which taught me to learn fast, debug patiently, and build things that hold up in production.
+
+<div align="center">
+
+**🏢 Upotto — Agency &nbsp;•&nbsp; ERP Platform**
+
+[![Agency](https://img.shields.io/badge/upotto.com-Visit_Agency-2D3748?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.upotto.com)
+[![ERP](https://img.shields.io/badge/erp.upotto.com-Live_ERP-4169E1?style=for-the-badge&logo=databricks&logoColor=white)](https://erp.upotto.com)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🧰 Tech Arsenal
 
-I'm a self-taught, production-focused developer from Rajshahi, Bangladesh, coming from a **non-IT (Agriculture) academic background**. That path taught me to learn fast, debug patiently, and build things that actually work in the real world — not just in a tutorial.
-
-I work across the full stack: designing clean, responsive UIs, architecting backend systems, and shipping cross-platform mobile apps end to end. Currently focused on building **Upotto**, an ERP system spanning backend, web, and mobile.
-
-- 🔭 Currently building **Upotto** — an ERP suite + Foreman Bot (NestJS · Next.js · Flutter)
-- 💼 Software Engineer (part-time) @ Immigrant Times · previously Rigg Technologies
-- 🌱 Deepening system design, clean architecture, and DSA fundamentals
-- 🌾 Bringing agricultural domain knowledge into agri-tech tooling
-- 🌍 Open to remote/international full-stack & Flutter roles
-
-**🏢 Upotto — Agency & ERP**
-[![Website](https://img.shields.io/badge/Agency-upotto.com-2D3748?style=flat-square&logo=googlechrome&logoColor=white)](https://www.upotto.com)
-[![ERP](https://img.shields.io/badge/ERP-erp.upotto.com-4169E1?style=flat-square&logo=databricks&logoColor=white)](https://erp.upotto.com)
-
----
-
-### 🧰 Tech Stack
+<div align="center">
 
 **Mobile**
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
 
 **Backend**
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-25D366?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,php" />
 
-**Databases & ORM**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+**Database & ORM**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb" />
 
 **CMS & Tools**
-<p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,docker,postman,figma,vercel" />
+
+</div>
 
 ---
 
-### 🌱 Currently Learning & Exploring
+## 🛠️ Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Upotto ERP + Foreman Bot
+Enterprise resource planning suite — solo-developed end to end.
+<br/>
+`NestJS` `Prisma` `PostgreSQL` `Next.js` `Flutter`
+<br/>
+🔗 [erp.upotto.com](https://erp.upotto.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Flirtmetrics
+Cross-platform dating app for a German company — real-time chat, ~1 year team collaboration as Flutter lead.
+<br/>
+`Flutter` `Riverpod` `WebSockets` `Firebase`
+<br/>
+🔗 [flirtmetrics.com](https://flirtmetrics.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriflowBD
+Agricultural supply-chain & mapping platform connecting growers and distributors.
+<br/>
+`Next.js` `Laravel` `MySQL`
+<br/>
+🔗 [agriflowbd.com](https://www.agriflowbd.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ NEGMP — Govt. GIS Proposal
+National environmental GIS monitoring platform proposal for Bangladesh's Ministry of Environment.
+<br/>
+`NestJS` `PostGIS` `Google Earth Engine`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📄 Full case studies & journey → **[jashuvro.com](https://www.jashuvro.com)**
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```
+2026 ── Software Engineer & Full-Stack Dev @ Immigrant Times (part-time)
+2025 ── Flutter & Full-Stack Developer @ Rigg Technologies
+2024 ── Mobile App Specialist — 10+ Android apps shipped (freelance)
+2023 ── Frontend & Backend Engineer — 10+ web platforms (freelance)
+2022 ── WordPress & Plugin Specialist — foundation years (freelance)
+```
+
+**Also building:** AI-powered WordPress tools & plugins
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=ja-shuvro&show_icons=true&theme=tokyonight&hide_border=true" alt="ja-shuvro's GitHub stats" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ja-shuvro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-shuvro&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ja-shuvro&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</div>
+
+---
+
+## 🌱 Currently Exploring
 
 - Advanced Flutter — state management, clean architecture, performance tuning
 - System design & DSA fundamentals
 - Prisma + PostgreSQL for enterprise-grade data modeling
 - Docker & deployment workflows
-- Writing maintainable, scalable project structures
+
+## 💞️ Let's Collaborate
+
+Flutter apps &nbsp;•&nbsp; Full-stack web (Next.js/NestJS/Laravel) &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; WordPress + AI tooling &nbsp;•&nbsp; ERP systems
 
 ---
 
-### 🛠️ Featured Work
-
-| Project | Role | Stack |
-|---|---|---|
-| **[Upotto ERP + Foreman Bot](https://erp.upotto.com)** | Solo developer | NestJS · Prisma · PostgreSQL · Next.js · Flutter |
-| **[Flirtmetrics](https://flirtmetrics.com)** — German dating app, iOS & Android | ~1 year, team collab (Flutter lead) | Flutter · Riverpod · WebSockets · Firebase |
-| **[AgriflowBD](https://www.agriflowbd.com)** — Agri supply-chain platform | Full-stack | Next.js · Laravel · MySQL |
-| **AI-powered WordPress tools** | Plugin/tool developer | WordPress · PHP · AI APIs |
-| NEGMP — Govt. GIS Monitoring Proposal (Bangladesh MoEFCC) | System architect & proposal author | NestJS · PostGIS · GEE API |
-
-📄 Full case studies & journey → **[jashuvro.com](https://www.jashuvro.com)**
-
-### 💼 Experience
-
-- **Immigrant Times** — Software Engineer & Full-Stack Developer (part-time, 2025–Present)
-- **Rigg Technologies** — Flutter & Full-Stack Developer (2025)
-- **Freelance** — Full-stack, mobile & WordPress projects (2022–Present)
-
-### 💞️ Let's Collaborate
-
-- Flutter mobile applications
-- Full-stack web projects (Next.js / NestJS / Laravel)
-- REST API design & backend architecture
-- WordPress plugin/theme development & AI tooling
-- ERP & business systems
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ja-shuvro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ja-shuvro's GitHub stats" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ja-shuvro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-shuvro&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-> 💡 If a stats card shows broken on GitHub, it's usually the vercel.app image service being slow to render on first load — refresh the page or wait a few seconds. If it stays broken, the `count_private=true` flag can be removed.
-
----
+<div align="center">
 
 ### 📫 Reach Me
 
-<p>
-  <a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://www.shuvro.rf.gd"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+<a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/8801728723881"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://x.com/shuvro_a"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.jashuvro.com"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-<p align="center"><i>⚡ Fun fact: Started in agriculture, ended up automating everything else instead.</i></p>
+<br/><br/>
+
+<i>⚡ Started in agriculture, ended up automating everything else instead.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
