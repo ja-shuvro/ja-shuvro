@@ -1,101 +1,114 @@
-# Hi there! 👋 I'm MD Jonaed Ali Shuvro (@ja-shuvro)
+<h1 align="center">Hi 👋, I'm Md. Jonaed Ali Shuvro</h1>
+<h3 align="center">Flutter & Full-Stack Developer | Building scalable mobile & web products</h3>
 
-I'm a **Flutter & Full-Stack Developer** with real-world production experience, specializing in building scalable **mobile and web applications**. I come from a non-IT background and am a **self-taught developer**, which has shaped me into a fast learner who adapts quickly to new technologies and challenges.
-
-I enjoy working across the full stack — from crafting clean UI experiences to designing robust backend systems and APIs.
-
----
-
-## 🔭 Tech Stack
-
-### 📱 Mobile Development
-
-* Flutter (Cross-platform mobile apps)
-
-### 🖥️ Frontend
-
-* React.js, Next.js
-* HTML5, CSS3, Tailwind CSS
-* JavaScript, jQuery
-
-### ⚙️ Backend
-
-* Laravel
-* Node.js, Express.js, NestJS
-* RESTful API Development
-
-### 🗄️ Databases
-
-* MongoDB
-* MySQL
-
-### 🧩 CMS & Others
-
-* WordPress (Development & Customization)
-* WordPress Plugin & Theme Development
-* Git & GitHub
-* Postman
+<p align="center">
+  <a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://www.shuvro.rf.gd"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🌱 Currently Learning & Exploring
+### 🚀 About Me
 
-* Advanced **Flutter** concepts (state management, performance optimization, scalable architecture)
-* Core **software engineering fundamentals** (data structures, algorithms, system design basics)
-* Strengthening **computer science foundations** to complement my non-technical academic background
-* Scalable backend systems with **Laravel & NestJS**
-* Clean code practices and maintainable project structures
-* Basics of **Docker** and deployment workflows
+I'm a self-taught, production-focused developer from Rajshahi, Bangladesh, coming from a **non-IT (Agriculture) academic background**. That path taught me to learn fast, debug patiently, and build things that actually work in the real world — not just in a tutorial.
 
----
+I work across the full stack: designing clean, responsive UIs, architecting backend systems, and shipping cross-platform mobile apps end to end. Currently focused on building **Upotto**, an ERP system spanning backend, web, and mobile.
 
-## 💡 What I Love Doing
-
-* Building **production-ready mobile apps** using Flutter
-* Developing **full-stack web applications** (Laravel + React)
-* Designing and consuming **REST APIs**
-* Working with **MongoDB & MySQL** for efficient data handling
-* Creating **custom WordPress plugins and themes**
+- 🔭 Currently building a full ERP suite (NestJS · Next.js · Flutter)
+- 🌱 Deepening system design, clean architecture, and DSA fundamentals
+- 🌾 Bringing agricultural domain knowledge into agri-tech tooling
+- 💼 Open to remote/international full-stack & Flutter roles
 
 ---
 
-## 👀 Interests
+### 🧰 Tech Stack
 
-* Remote or international **software development roles**
-* Contributing to **open-source projects**
-* Building MVPs and scalable products for startups
-* Working with global teams and learning international best practices
+**Mobile**
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-25D366?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+**Databases & ORM**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+**CMS & Tools**
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## 💞️ Let’s Collaborate
+### 🌱 Currently Learning & Exploring
 
-I'm open to collaborating on:
-
-* Flutter mobile applications
-* Full-stack web projects
-* Backend APIs (Laravel / Node.js)
-* WordPress plugin or theme development
-
-If you have an idea or project, feel free to reach out — I’m always happy to collaborate.
+- Advanced Flutter — state management, clean architecture, performance tuning
+- System design & DSA fundamentals
+- Prisma + PostgreSQL for enterprise-grade data modeling
+- Docker & deployment workflows
+- Writing maintainable, scalable project structures
 
 ---
 
-## 📫 How to Reach Me
+### 💞️ Let's Collaborate
 
-* 📧 Email: [dev.jsahuvro@gmail.com](mailto:dev.jsahuvro@gmail.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/ja-shuvro-13733b37b](https://www.linkedin.com/in/ja-shuvro-13733b37b)
-* 💻 GitHub: [https://github.com/ja-shuvro](https://github.com/ja-shuvro)
-* 🌐 Portfolio: [http://www.shuvro.rf.gd](http://www.shuvro.rf.gd)
-
----
-
-## 😄 Pronouns
-
-He / Him
+- Flutter mobile applications
+- Full-stack web projects (Next.js / NestJS / Laravel)
+- REST API design & backend architecture
+- WordPress plugin/theme development
+- ERP & business systems
 
 ---
 
-## ⚡ Fun Fact
+### 📊 GitHub Stats
 
-When I’m not coding, I enjoy exploring new technologies, improving app performance, and learning how to build cleaner, faster, and more scalable systems 🚀
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ja-shuvro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-shuvro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-shuvro&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p>
+  <a href="mailto:dev.jashuvro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ja-shuvro-13733b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://www.shuvro.rf.gd"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⚡ Fun fact: Started in agriculture, ended up automating everything else instead.</i></p>
