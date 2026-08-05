@@ -15,10 +15,15 @@ I'm a self-taught, production-focused developer from Rajshahi, Bangladesh, comin
 
 I work across the full stack: designing clean, responsive UIs, architecting backend systems, and shipping cross-platform mobile apps end to end. Currently focused on building **Upotto**, an ERP system spanning backend, web, and mobile.
 
-- 🔭 Currently building a full ERP suite (NestJS · Next.js · Flutter)
+- 🔭 Currently building **Upotto** — an ERP suite + Foreman Bot (NestJS · Next.js · Flutter)
+- 💼 Software Engineer (part-time) @ Immigrant Times · previously Rigg Technologies
 - 🌱 Deepening system design, clean architecture, and DSA fundamentals
 - 🌾 Bringing agricultural domain knowledge into agri-tech tooling
-- 💼 Open to remote/international full-stack & Flutter roles
+- 🌍 Open to remote/international full-stack & Flutter roles
+
+**🏢 Upotto — Agency & ERP**
+[![Website](https://img.shields.io/badge/Agency-upotto.com-2D3748?style=flat-square&logo=googlechrome&logoColor=white)](https://www.upotto.com)
+[![ERP](https://img.shields.io/badge/ERP-erp.upotto.com-4169E1?style=flat-square&logo=databricks&logoColor=white)](https://erp.upotto.com)
 
 ---
 
@@ -80,12 +85,30 @@ I work across the full stack: designing clean, responsive UIs, architecting back
 
 ---
 
+### 🛠️ Featured Work
+
+| Project | Role | Stack |
+|---|---|---|
+| **[Upotto ERP + Foreman Bot](https://erp.upotto.com)** | Solo developer | NestJS · Prisma · PostgreSQL · Next.js · Flutter |
+| **[Flirtmetrics](https://flirtmetrics.com)** — German dating app, iOS & Android | ~1 year, team collab (Flutter lead) | Flutter · Riverpod · WebSockets · Firebase |
+| **[AgriflowBD](https://www.agriflowbd.com)** — Agri supply-chain platform | Full-stack | Next.js · Laravel · MySQL |
+| **AI-powered WordPress tools** | Plugin/tool developer | WordPress · PHP · AI APIs |
+| NEGMP — Govt. GIS Monitoring Proposal (Bangladesh MoEFCC) | System architect & proposal author | NestJS · PostGIS · GEE API |
+
+📄 Full case studies & journey → **[jashuvro.com](https://www.jashuvro.com)**
+
+### 💼 Experience
+
+- **Immigrant Times** — Software Engineer & Full-Stack Developer (part-time, 2025–Present)
+- **Rigg Technologies** — Flutter & Full-Stack Developer (2025)
+- **Freelance** — Full-stack, mobile & WordPress projects (2022–Present)
+
 ### 💞️ Let's Collaborate
 
 - Flutter mobile applications
 - Full-stack web projects (Next.js / NestJS / Laravel)
 - REST API design & backend architecture
-- WordPress plugin/theme development
+- WordPress plugin/theme development & AI tooling
 - ERP & business systems
 
 ---
@@ -93,13 +116,15 @@ I work across the full stack: designing clean, responsive UIs, architecting back
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ja-shuvro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-shuvro&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ja-shuvro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ja-shuvro's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-shuvro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-shuvro&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-shuvro&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
+
+> 💡 If a stats card shows broken on GitHub, it's usually the vercel.app image service being slow to render on first load — refresh the page or wait a few seconds. If it stays broken, the `count_private=true` flag can be removed.
 
 ---
 
